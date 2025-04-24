@@ -58,13 +58,15 @@ To build an effective regression model that can predict the median value of owne
 3. Run all cells to follow the full analysis and model training process
 ---
 
-## Results
-
-- The model's performance is evaluated using metrics like Mean Squared Error (MSE) and R-squared to ensure accuracy and reliability.
----
-
 ## How to Run
 
 1. Open `Boston_House_Price_Prediction.ipynb` in Google Colab  
 2. Upload `HousingData.csv` when prompted  
 3. Run all cells to follow the full analysis and model training process
+---
+
+## Results
+
+- The model's performance is evaluated using metrics like Mean Squared Error (MSE) and R-squared to ensure accuracy and reliability.
+---
+
